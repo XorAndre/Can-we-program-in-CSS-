@@ -11,7 +11,7 @@ Before we get into the subject, let's understand how programming works. Programm
 
 Certainly if you are reading this text it is because you must have a basic knowledge of programming or maybe the title was nice. About the programming process: When programming we have to give certain instructions for the activity to be done, suppose we create a marathon algorithm, this would be a basic example:
 
-[!Cake recipe algorithm](https://149352953.v2.pressablecdn.com/wp-content/uploads/2011/01/learning_to_cook.png)
+![Cake recipe algorithm](https://149352953.v2.pressablecdn.com/wp-content/uploads/2011/01/learning_to_cook.png)
 
 The example above is a basic thing that we keep in mind when we enter the world of programming, but now let's take a look at the style sheets. The core objective of style sheets is really what you have been learning or will learn, which in this case would be the stylization of objects created in HTML, ranging from texts, media objects and containers used in the formatting of web pages. If you don't know much about it, the CSS was created to take a weight off the HTML that before, right at the beginning of the web, it made the process take you to information and still had to style this information on its own, making it very polluted code. With the arrival of CSS we had a division of responsibilities and it was no longer necessary to make dirty and somewhat heavy HTML for reading.
 
